@@ -20,6 +20,6 @@ colorSound lets you conduct virtual orchestra using colors. It processes images 
   - Blue - Violin
   - Red - Ahh Choir
 
-Just grab anything that has at least one of the three colors and conduct the orchestra as professionals. The software can play three instrumens simultaneously if it sees all the three colors. Colors can detected from you shirt also!.
+Just grab anything that has at least one of the three colors and conduct the orchestra as professionals do. The software can play three instruments simultaneously if it sees all the three colors. Colors can detected from your shirt also!.
 
-You can play other/more instruments by modify the script to use different soundfont file. If you use different soundfont, make sure that you select the appropriate program and bank for each instrument. 
+You can play other/more instruments by modifying the script to use different soundfont file. If you use different soundfont, make sure that you select the appropriate program and bank for each instrument. 
