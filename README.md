@@ -1,5 +1,7 @@
 # youConduct
 
+<img src="http://www.trbimg.com/img-53e3e2cc/turbine/la-ca-0928-salonen-pg" alt="" width="428"></a>
+
 YouConduct is a set of python script that allow you to conduct an orchestra of virtual instruments. YouConduct is based on two libraries: fluidSynth and OpenCV. FluidSynth is a software that synthesizes music from soundfont in real-time. OpenCV is known for powerful real-time graphics processing.
 
 In order to use youConduct, you need to install the following first:
@@ -19,6 +21,8 @@ colorSound lets you conduct virtual orchestra using colors. It processes images 
   - Green - Yamaha Grand Piano
   - Blue - Violin
   - Red - Ahh Choir
+ 
+ [![Alt text](https://img.youtube.com/vi/zS5q4DHf4qs/0.jpg)](https://https://www.youtube.com/watch?v=zS5q4DHf4qs)
 
 Just grab anything that has at least one of the three colors and conduct the orchestra as professionals do. The software can play three instruments simultaneously if it sees all the three colors. Colors can detected from your shirt also!.
 
