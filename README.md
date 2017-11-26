@@ -1,6 +1,6 @@
 # youConduct
 
-<img src="http://www.trbimg.com/img-53e3e2cc/turbine/la-ca-0928-salonen-pg" alt="" width="428"></a>
+<img src="http://www.trbimg.com/img-53e3e2cc/turbine/la-ca-0928-salonen-pg" alt="" width="428">
 
 YouConduct is a set of python script that allow you to conduct an orchestra of virtual instruments. YouConduct is based on two libraries: fluidSynth and OpenCV. FluidSynth is a software that synthesizes music from soundfont in real-time. OpenCV is known for powerful real-time graphics processing.
 
